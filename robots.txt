@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lancardomino.jamus.co.uk/sitemap.xml
